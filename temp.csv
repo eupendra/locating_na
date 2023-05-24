@@ -1,11 +1,11 @@
-Name,Phone Number,Zip Code,Last Updated
-Mary Smith,tel: (499) 891-5523,28418,26|10|2022
-Emily Doe,Na,50847,17|10|2022
-Mary Brown,tel: (744) 903-5904,29494,10|9|2020
-John Taylor,tel: (747) 399-4829,45646,20|3|2021
-Emily Taylor,tel: (382) 889-9521,45646,26|3|2021
-Mike Davis,Not Found,45646,12|9|2022
-David Johnson,tel: (837) 855-2585,45646,26|11|2020
-Tom Johnson,n/a,39471,12|2|2020
-David Taylor,tel: (396) 445-8546,28418,2|3|2021
-Tom Taylor,None,98776,14|5|2022
+Name,Phone,Age,Zip,Updated
+Tom Brown,tel: (866) 536-9690,54,48198,31|12|2020
+Mary Anderson,Na,40,75090,9|1|2020
+David Doe,tel: (611) 997-7512,78,75301,7|9|2020
+Mary Thompson,tel: (595) 236-4944,24,75301,26|11|2020
+Tom Anderson,tel: (428) 574-4175,55,75301,21|7|2021
+Sarah Johnson,Not Found,Not Found,75301,7|1|2022
+Jane Martin,tel: (216) 575-9927,n/a,18398,5|2|2022
+Tom Thompson,n/a,78,75301,16|12|2022
+Sarah Davis,tel: (627) 130-7192,31,91983,16|12|2022
+n/a,n/a,Not Found,n/a,n/a
